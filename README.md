@@ -123,12 +123,12 @@
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akirahai&show_icons=true&locale=en&layout=compact" alt="Akirahai" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akirahai&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Akirahai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akirahai&show_icons=true&locale=en" alt="Akirahai" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akirahai&show_icons=true&locale=en" alt="Akirahai" /></p> -->
 
-<!-- ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akirahai&show_icons=true&theme=radical) -->
 
+![Alex Le](https://github-readme-stats.vercel.app/api?username=Akirahai&theme=tokyonight&show_icons=true&hide=stars,issues&rank_icon=github)
 ---
 
 > “Driven, innovative, and research-focused—ready to build the next generation of AI solutions.” 
