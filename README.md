@@ -16,9 +16,10 @@
 - Developed research-grade models: ResNet, BiLSTM, RoBERTa, Qwen, etc., with ~95% accuracy.
 - Strong backend & cloud experience: Python, Flask/Django, AWS, GCP, Azure.
 - Competed in hackathons and won titles:  
-  - **Digital Fridge** (SUTD What The Hack 2024)  
-  - **Chain-of-Thought Video Understanding** (NAISCI TikTok Track 2025)  
-  - 1st runner-up at Maritime Hackathon 2025, among others.
+  - 1st place, **Digital Fridge** (SUTD What The Hack 2024).
+  - 1st runner-up, Maritime Hackathon 2025.
+  - 1st place, **Chain-of Chain-of-Thought Video Understanding** (NAISCI TikTok Track 2025).
+  - Next Hackathon Winner, **DripSeek** (Super AI 2025)
 - Active in UROP research and publications (CHI 2025 paper!).
 
 ---
